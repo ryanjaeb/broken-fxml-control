@@ -1,0 +1,10 @@
+*.iml
+*.ipr
+*.iws
+*.fxml.bak
+.gradle/
+.idea/
+build/
+out/
+classes
+test-output
