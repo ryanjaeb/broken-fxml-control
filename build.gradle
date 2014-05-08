@@ -1,0 +1,4 @@
+version = '1.0'
+
+apply plugin: 'java'
+sourceSets.main.resources.srcDir "src/main/java"
